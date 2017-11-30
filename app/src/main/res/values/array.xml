@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_items">
+        <item>ABOUT</item>
+        <item>ACADEMICS</item>
+        <item>CENTERS</item>
+        <item>STUDENT PORTAL</item>
+        <item>STAFF PORTAL</item>
+        <item>QAU</item>
+        <item>EIU</item>
+        <item>CONTACT US</item>
+        <item>MAPS</item>
+    </string-array>
+
+    <integer-array name="home_items_images">
+        <item>@drawable/eiu_portal</item>
+        <item>@drawable/e_exam_icon</item>
+        <item>@drawable/pmc</item>
+        <item>@drawable/e_learning</item>
+        <item>@drawable/e_exam_icon</item>
+        <item>@drawable/digital_library</item>
+        <item>@drawable/pure_math</item>
+        <item>@drawable/software_lib</item>
+        <item>@drawable/e_exam_icon</item>
+    </integer-array>
+
+</resources>
